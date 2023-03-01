@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://youtube.com/TechnicalMask" target="blank"><img src="https://img.shields.io/youtube/channel/views/UC5XewnZyw3vNZWMyAIH79YA" alt="Technical Mask" /></a> </p>
 
-- 🔭 I’m currently working on **Maya-Bot**
+- 🔭 I’m currently working on **Maya-Bot2.0 & New Adv Darla-Bot**
 
-- 🌱 I’m currently learning **HTML, PYTHON**
+- 🌱 I’m currently learning **HTML, CSS , PYTHON**
 
 - 📫 How to reach me **imujahidul405@gmail.com**
 
